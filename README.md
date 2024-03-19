@@ -1,6 +1,6 @@
 # The Science of Startups: The impact of founder personalities on startup success
 
-Code and data to produce figures and replicate results of the paper 'The impact of founder personalities on sompany success’.
+Code and data to produce figures and replicate results of the paper 'The impact of founder personalities on startup success’.
 
 __Please cite as__: _McCarthy, Gong, Braesemann, Stephany, Rizoiu, Kern (2023) The impact of founder personalities on startup success. Sci Rep 13, 17200 (2023). https://doi.org/10.1038/s41598-023-41980-y._ 
 
