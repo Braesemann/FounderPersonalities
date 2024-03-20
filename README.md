@@ -63,7 +63,9 @@ https://www.nature.com/articles/s41598-023-41980-y
       - Whether or not the startup was successful (“success”) 
       
 - Code
-  - "Python Code” reproduces figures 1A, 1B, 1C, and 1D from the main text and extended data figure 4, 5, 6, 7, 8A, 8C, and 20 in the supplement. 
-  - “R Figures” code reproduces figures 2A and 2B from the main text and extended figures 1A, 1B, 1C, 12, and 16 in the supplement 
+  - Python Code
+      - Reproduces figures 1A, 1B, 1C, and 1D from the main text and extended data figure 4, 5, 6, 7, 8A, 8C, and 20 in the supplement. 
+  - R Figures
+      - Code reproduces figures 2A and 2B from the main text and extended figures 1A, 1B, 1C, 12, and 16 in the supplement 
 
     
