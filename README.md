@@ -64,6 +64,6 @@ https://www.nature.com/articles/s41598-023-41980-y
       
 - Code 
   - “R Code [Upload]” code reproduces figures 2A and 2B from the main text and extended figures 1A, 1B, 1C, 12, and 16 in the supplement 
-  - “Python Code [Upload]” reproduces figures 1A, 1B, 1C, and 1D from the main text and extended data figure 4, 5, 6, 7, 8A, 8C, and 20 in the supplement. (Extended data figure 19 in the code is Extended data figure 20 in the supplement) 
+  - “Python Code [Upload]” reproduces figures 1A, 1B, 1C, and 1D from the main text and extended data figure 4, 5, 6, 7, 8A, 8C, and 20 in the supplement. 
 
     
