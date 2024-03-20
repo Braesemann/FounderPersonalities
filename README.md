@@ -50,7 +50,7 @@ https://www.nature.com/articles/s41598-023-41980-y
       - Personality percentile scores 
       - Whether or not the startup was successful (“success”) 
   - Founders_Cofounders_Twitter_Personality_Matrix_Anon_diff
-    - Contains founders (“User”), their personality percentile scores, and whether they were funded or unfunded (“Funded Type”) 
+    - Contains founders (anonymised "User”) and their personality percentile scores
   - Data (no figures)
     - personalities_noInd 
       - An extensive dataset on different startups. Contains: 
