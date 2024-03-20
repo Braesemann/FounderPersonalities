@@ -36,9 +36,11 @@ https://www.nature.com/articles/s41598-023-41980-y
   - ED_Fig16_df
     - Summary statistics for chances of success by founder personalities 
 - Data (for figures in Python) 
-  - Entrepreneurs_and_Employee_Scores_Anon
-    - Contains different workers (“User”), their personality percentile scores, and whether or not they are entrepreneurs or employees (“Target”). 
-  - ExtendedDataFigure19_Subset 
+  - Fig1AB_df
+    - Contains different workers (“User”), their personality percentile scores, and whether or not they are entrepreneurs or employees (“Target”)
+  - Fig1CD_df
+    - Contains founders (anonymised "User”) and their personality percentile scores
+  - ED_Fig20_df
     - A very small subset of the original dataset which contains
       - Different startups (“V1”)
       - Whether they are older than 6 years old (“olderthansix”)
@@ -49,11 +51,9 @@ https://www.nature.com/articles/s41598-023-41980-y
       - Industry of the startup 
       - Personality percentile scores 
       - Whether or not the startup was successful (“success”) 
-  - Founders_Cofounders_Twitter_Personality_Matrix_Anon_diff
-    - Contains founders (anonymised "User”) and their personality percentile scores
-  - Data (no figures)
-    - personalities_noInd 
-      - An extensive dataset on different startups. Contains: 
+  
+  - AdditionalData (no figures)
+    - An extensive dataset on different startups. Contains: 
       - Different startups (“V1”)
       - Whether they are older than 6 years old (“olderthansix”)
       - Country the startup is in (“org_country”) 
@@ -62,8 +62,8 @@ https://www.nature.com/articles/s41598-023-41980-y
       - Personality percentile scores 
       - Whether or not the startup was successful (“success”) 
       
-- Code 
-  - “R Code [Upload]” code reproduces figures 2A and 2B from the main text and extended figures 1A, 1B, 1C, 12, and 16 in the supplement 
-  - “Python Code [Upload]” reproduces figures 1A, 1B, 1C, and 1D from the main text and extended data figure 4, 5, 6, 7, 8A, 8C, and 20 in the supplement. 
+- Code
+  - "Python Code” reproduces figures 1A, 1B, 1C, and 1D from the main text and extended data figure 4, 5, 6, 7, 8A, 8C, and 20 in the supplement. 
+  - “R Figures” code reproduces figures 2A and 2B from the main text and extended figures 1A, 1B, 1C, 12, and 16 in the supplement 
 
     
