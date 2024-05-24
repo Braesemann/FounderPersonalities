@@ -72,4 +72,8 @@ Ensuring anonymity of personal information is of utmost importance to us. As suc
   - R Figures
       - Code reproduces figures 2A and 2B from the main text and extended figures 1A, 1B, 1C, 12, and 16 in the supplement 
 
+
+### Commonly Asked Questions 
+
+- What are the columns starting with "big5_max" and ending with "percentile" referring to?
     
