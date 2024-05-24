@@ -76,4 +76,8 @@ Ensuring anonymity of personal information is of utmost importance to us. As suc
 ### Commonly Asked Questions 
 
 - What are the columns starting with "big5_max" and ending with "percentile" referring to?
+  - They represent the maximum percentie value of the personality trait (openness, consciousness, etc) within the founder team of each organisation. For example, epresent the maximum percentile value of the personality (openness, consciousness and so on) within the founder team of each organization. They are taken from the columns "big5_openness_percentile", "big5_conscientiousness_percentile", "big5_extraversion_percentile", "big5_agreeableness_percentile", and "big5_neuroticism_percentile".
+
+-  If a row says that an organisation has 2 founders, but the combo type just gives one founder, what does that mean?
+  - It means we could not find the Twitter account for the second founder, so we could not infer their personality. 
     
