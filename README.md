@@ -64,7 +64,21 @@ Ensuring anonymity of personal information is of utmost importance to us. As suc
       - How many founders the startup has (“org_numfounders”)
       - Combination of founder personality types (“combo”) 
       - Personality percentile scores 
-      - Whether or not the startup was successful (“success”) 
+      - Whether or not the startup was successful (“success”)
+        
+  - AdditionalDataSuccess (no figures)
+    - The same information as AdditionalData above, except “success” is split up into three categories. Contains
+      - Different startups (“V1”)
+      - Whether they are older than 6 years old (“olderthansix”)
+      - Country the startup is in (“org_country”) 
+      - How many founders the startup has (“org_numfounders”)
+      - Combination of founder personality types (“combo”) 
+      - Personality percentile scores 
+      - Whether or not the startup was successful (“success”)
+      - (“success_bought”)
+      - (“success_sold”)
+      - (“success_IPO”)
+    
       
 - Code
   - Python Code
