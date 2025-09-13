@@ -74,7 +74,6 @@ Ensuring anonymity of personal information is of utmost importance to us. As suc
       - How many founders the startup has (“org_numfounders”)
       - Combination of founder personality types (“combo”) 
       - Personality percentile scores 
-      - Whether or not the startup was successful (“success”)
       - (“success_bought”)
       - (“success_sold”)
       - (“success_IPO”)
